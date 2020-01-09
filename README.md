@@ -1,3 +1,3 @@
-# Light-field-raindrop-dataset
+# light-field-raindrop-dataset
 
 Access on January 10, 2020.

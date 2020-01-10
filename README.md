@@ -27,11 +27,11 @@ The white images of our Lytro camera, which are used for decoding, can be downlo
 
 https://drive.google.com/open?id=1qawMlA9HXgS1rpyre60szcjY6SgEt5ct
 
-Light field raindrop image part 1：
+Part 1 of light field raindrop images：
 
 https://drive.google.com/open?id=1713MB_a7YkbmDgLQ0jw8sQBG5SmZYlkn
 
-Light field raindrop image part 2：
+Part 2 of light field raindrop images：
 
 https://drive.google.com/open?id=1-HZKDogCwTOXa7ZaMJ8KVG3cH_ohaFrp
 

@@ -7,7 +7,7 @@ The light field source file can be easily decoded by the light field toolbox (ht
 
 An example is shown Fig. 1:
 
-<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/example.png" width="300" height="100" alt="Figure 1"/></div>
+<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/example.png" width="300" height="100" Figure 1/></div>
 
 We collected raindrop images with glass plate, window of train, and window of car.
 The camera is placed 10 to 15 cm in front of the glass plate and windows.

@@ -2,15 +2,14 @@
 
 Light field raindrop dataset was collected with the first generation Lytro camera.
 The dataset contains 90 light field raindrop images that cover different camera angles and scenes.
+We collected raindrop images with glass plate, window of train, and window of car.
+The camera is placed 10 to 15 cm in front of the glass plate and windows.
 For each image, we provide the light field source file, reference image, and reference depth map given by the Lytro software.
 The light field source file can be easily decoded by the light field toolbox (https://github.com/doda42/LFToolbox).
 
 An example is shown as follows:
 
 <div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/example.png" width="300" height="100"/></div>
-
-We collected raindrop images with glass plate, window of train, and window of car.
-The camera is placed 10 to 15 cm in front of the glass plate and windows.
 
 The first 40 images (part1) in our dataset cover different situations evenly.
 

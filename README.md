@@ -7,7 +7,7 @@ The light field source file can be easily decoded by the light field toolbox (ht
 
 An example is shown as follows:
 
-<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/example.png" width="600" height="200"/></div>
+<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/example.png" width="300" height="100"/></div>
 
 We collected raindrop images with glass plate, window of train, and window of car.
 The camera is placed 10 to 15 cm in front of the glass plate and windows.
@@ -16,11 +16,11 @@ The first 40 images (part1) in our dataset cover different situations evenly.
 The last 50 images (part2) are was collected with the UTBM robocar. The Lytro camera was held in the car by the author, and the corresponding GPS information was also recorded. As shown on the right side in the figure below, the route of data collection is the same as the 
 EU long-term dataset (https://epan-utbm.github.io/utbm_robocar_dataset/).
 
-<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/fig13.jpg" width="400" height="200"/></div>
+<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/fig13.jpg" width="350" height="200"/></div>
 
 A summary of our dataset is given as follows:
 
-<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/overview.png" width="300" height="120"/></div>
+<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/overview.png" width="300" height="100"/></div>
 
 The white images of our Lytro camera, which are used for decoding, can be download by the link:
 

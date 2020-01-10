@@ -16,7 +16,7 @@ The first 40 images (part1) in our dataset cover different situations evenly.
 The last 50 images (part2) are was collected with the UTBM robocar. The Lytro camera was held in the car by the author, and the corresponding GPS information was also recorded. As shown on the right side in the Fig. 2, the route of data collection is the same as the 
 EU long-term dataset (https://epan-utbm.github.io/utbm_robocar_dataset/).
 
-<div align=center><img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/fig13.jpg" width="400" height="200" alt="Figure 2"/></div>
+<div align=center>[Screenshot]<img src="https://github.com/cavayangtao/light-field-raindrop-dataset/blob/master/fig13.jpg" width="400" height="200" alt="Figure 2"/></div>
 
 Table 1 gives a summary of our dataset:
 

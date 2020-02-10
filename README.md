@@ -40,7 +40,7 @@ If you publish work based on, or using, this dataset, we would appreciate citati
 
     @misc{taoy2020,
         author       = {Tao Yang, Xiaofei Chang, Hang Su, Nathan Crombez, Yassine Ruichek, Tomas Krajnik, and Zhi Yan}},
-        title        = {{Raindrop Removal with Light Field Image Using Image Inpainting}},
+        title        = {Raindrop Removal with Light Field Image Using Image Inpainting},
         year         = 2020,
         }
 

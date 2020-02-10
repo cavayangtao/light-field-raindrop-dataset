@@ -37,11 +37,11 @@ https://drive.google.com/open?id=1-HZKDogCwTOXa7ZaMJ8KVG3cH_ohaFrp
 # Citation
 If you publish work based on, or using, this dataset, we would appreciate citations to the following:
 
-@misc{taozhi2020,
-   author = {Tao Yang, Xiaofei Chang, Hang Su, Nathan Crombez, Yassine Ruichek, Tomas Krajnik, and Zhi Yan},
-   title = {Raindrop Removal with Light Field Image Using Image Inpainting},
-   year = {2020}
-}
+   @misc{taozhi2020,
+     author = {Tao Yang, Xiaofei Chang, Hang Su, Nathan Crombez, Yassine Ruichek, Tomas Krajnik, and Zhi Yan},
+     title = {Raindrop Removal with Light Field Image Using Image Inpainting},
+     year = {2020}
+   }
 
 
 

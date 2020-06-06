@@ -35,6 +35,10 @@ Part 2 of light field raindrop images：
 
 https://drive.google.com/open?id=1-HZKDogCwTOXa7ZaMJ8KVG3cH_ohaFrp
 
+Part 3 includes some light field images collected under rain, snow, and fog without a window in frond of the camera:
+
+https://drive.google.com/file/d/1K5_N3ZIP2QWPAKOzVOqN0hTi07ydA-gq/view?usp=sharing
+
 ## Citation
 If you publish work based on, or using, this dataset, we would appreciate citations to the following:
 
